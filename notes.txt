@@ -1,1 +1,2 @@
 Line 1: Initial note.
+Line 2: Temporary note to be reverted.
